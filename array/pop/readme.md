@@ -1,4 +1,4 @@
-#POP
+# POP
 
 1. Write a JavaScript function that takes an array as an argument and removes the last element from the array using the pop() method.
 
