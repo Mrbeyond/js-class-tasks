@@ -6,7 +6,7 @@
 
 4. Write a JavaScript program that displays the sum of all integers from 1 to a given positive integer n.
 
-5.Develop a function that concatenates two strings and returns the combined string.
+5. Develop a function that concatenates two strings and returns the combined string.
 
 6. Create a function that increments a number by 1 and returns the new value.
 
