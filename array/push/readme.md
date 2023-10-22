@@ -1,4 +1,4 @@
-#PUSH
+# PUSH
 
 1. Write a JavaScript function that takes an array and an element as arguments and adds the element to the end of the array using the push() method.
 
