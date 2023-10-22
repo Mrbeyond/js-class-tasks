@@ -96,4 +96,4 @@
 
 49. Write a function that counts the number of vowels (a, e, i, o, u) in a given string by iterating through its characters using the length property.
 
-Implement a function that checks if a string has a length that is a multiple of 5 using the length property. Return true if it is and false otherwise.
+50. Implement a function that checks if a string has a length that is a multiple of 5 using the length property. Return true if it is and false otherwise.
